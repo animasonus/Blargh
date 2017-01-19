@@ -1,0 +1,10 @@
+body {
+	background: "http://gph.is/1piXwxr";
+	background-repeat: repeat;
+}
+
+div {
+	background-color: rgba(0,0,0,0.5);
+	color: white;
+	position: center;
+}
