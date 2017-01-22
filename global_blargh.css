@@ -1,5 +1,7 @@
 body {
-	background: url("rotating_pear.gif") repeat;
+	background-image: url(rotating_pear.gif);
+	background-repeat: no-repeat;
+	background-position: center top;
 }
 
 div {
